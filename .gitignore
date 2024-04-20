@@ -1,0 +1,4 @@
+CSV_SAVES/*
+INPUT_FILES/*
+.ipynb_checkpoints/*
+.DS_Store
